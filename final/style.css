@@ -1,0 +1,31 @@
+.cont{
+    border: solid 10px darkblue;
+    border-radius: 20px;
+    background-color: cyan;
+}
+.assign{
+    text-align: center;
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: darkcyan;
+    
+}
+.container{
+    border: solid 10px darkblue;
+    border-radius: 20px;
+    background-color: cyan;
+}
+.assignment{
+    text-align: center;
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: darkcyan;
+    
+}
+.main{
+    text-align: center;
+    color: darkblue;
+    border: solid 10px darkcyan;
+    border-radius: 15px;
+    background-color: aqua;
+}

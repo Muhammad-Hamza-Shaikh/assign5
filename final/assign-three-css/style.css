@@ -1,0 +1,29 @@
+.cont{
+text-align: center;
+border: darkcyan solid 10px;
+padding-bottom: 30px;
+height: 480px;
+width: 550px;
+margin-left: 480px;
+margin-top: 100px;
+
+background-color: aqua;
+}
+.main{
+    padding: 20px 70px;
+    border: none;
+    border-radius: 20px;
+    background-color:darkcyan;
+    color: antiquewhite;
+    text-decoration: none;
+    width: 380px;
+margin-left: 12px;
+}
+.tab a{
+    padding: 20px 70px;
+    border: none;
+    border-radius: 20px;
+    background-color:darkcyan;
+    color: antiquewhite;
+    text-decoration: none;
+}

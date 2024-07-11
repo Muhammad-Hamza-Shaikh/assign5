@@ -1,0 +1,52 @@
+h1 {
+    color: black;
+    
+    
+}
+body {
+    background-color: rgb(226, 241, 209);
+    border: solid thick ;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+ul{
+    color: black;
+}
+li{
+    color: black ;
+}
+.container a{
+   padding:0px 0px;
+   background-color: rgb(226, 241, 209);
+   color: coral;
+   margin-left: 0px;
+}
+.m{
+    color: coral;
+}
+.p{
+    color: coral;
+}
+a {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #5cb85c;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 5px;
+    text-decoration: none;
+    padding-left:20px ;
+}
+.ham{
+   margin: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color:darkcyan;
+    color: antiquewhite;
+    text-decoration: none;
+    width: 380px;
+
+}
